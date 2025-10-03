@@ -1,0 +1,10 @@
+{
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "defaultViewMode": "preview"
+}

@@ -1,0 +1,57 @@
+{
+  "templater-obsidian:CMD脚本/calloutForContent.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "templater-obsidian:CMD脚本/calloutForMarkdown.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "obsidian-another-quick-switcher:search-command_star-search": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "4"
+    }
+  ],
+  "keyboard-analyzer:open-shortcuts-analyzer-view": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "smart-composer:open-new-chat": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ],
+  "templater-obsidian:jump-to-next-cursor-location": [],
+  "obsidian-spaced-repetition:srs-note-review-open-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "W"
+    }
+  ]
+}
