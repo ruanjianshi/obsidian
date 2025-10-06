@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Test",
+      "path": "Test.md"
+    },
+    {
       "basename": "阅读学习打卡（七）",
       "path": "英语/阅读学习打卡（七）.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "C++复查",
       "path": "C++/C++复查.md"
-    },
-    {
-      "basename": "Test",
-      "path": "Test.md"
     },
     {
       "basename": "Linux运维面板（本地服务）",

@@ -21,3 +21,5 @@ table file.name
 | joint_t[L] | 腿部高度跟踪力 | 垂直方向运动 |
 | roll_torque | 横向倾斜补偿力 | 左右方向平衡 |
 | HEAD_WEIGHT*9.8 | 头部重力补偿 | 静态稳定性 |
+# stl
+什么是STL
