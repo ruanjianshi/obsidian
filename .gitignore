@@ -28,3 +28,7 @@ Thumbs.db
 
 # Ignore Smart Environment folder
 .smart-env
+
+#ai chat storage
+.smtcmp_vector_db.tar.gz
+.smtcmp_json_db

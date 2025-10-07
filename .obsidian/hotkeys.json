@@ -37,14 +37,6 @@
       "key": "F12"
     }
   ],
-  "smart-composer:open-new-chat": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "S"
-    }
-  ],
   "templater-obsidian:jump-to-next-cursor-location": [],
   "obsidian-spaced-repetition:srs-note-review-open-note": [
     {
@@ -98,5 +90,13 @@
   "workspace:goto-tab-2": [],
   "workspace:goto-tab-3": [],
   "workspace:goto-tab-4": [],
-  "workspace:goto-tab-5": []
+  "workspace:goto-tab-5": [],
+  "smart-composer:add-selection-to-chat": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
+  ]
 }
